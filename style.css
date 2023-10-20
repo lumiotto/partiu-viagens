@@ -73,7 +73,7 @@ body {
         height: 480px;
     }
 
-    #sobre .col-md-5 {
+    #sobre .col-md-5, #sobre .col-md-7 {
         width: 100%;
     }
 
